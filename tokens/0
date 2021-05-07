@@ -1,7 +1,7 @@
 {
   "id": 0,
-  "description": "KT Lee",
+  "description": "KTLee's test token no.0",
   "external_url": "https://github.com/donmizo/test_nft_erc721",
-  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-  "name": "KT Lee-test"
+  "image": "https://raw.githack.com/donmizo/test_nft_erc721/252795b1035c939983ad17b90b4b60e161577c6e/tokens/token_0.jpg",
+  "name": "KTLee_no_0"
 }
