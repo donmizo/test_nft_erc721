@@ -1,8 +1,7 @@
 {
-	"id": 0,
-		"description": "KT Lee",
-		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-		"image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-		"name": "KT Lee-test"
-},
-
+  "id": 0,
+  "description": "KT Lee",
+  "external_url": "https://github.com/donmizo/test_nft_erc721",
+  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+  "name": "KT Lee-test"
+}
